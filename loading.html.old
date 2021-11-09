@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="CSS\loading.css">
+	
+<div class="progress">
+  <div class="progress-value"></div>
+</div>
+
+<meta http-equiv="refresh" content="6; URL=index.html" />
